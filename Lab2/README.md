@@ -8,7 +8,9 @@ Each element in these arrays A and B is some random unsigned integer in range of
 The user should be able to enter a number N between 0 and 255 after the appropriate prompt (like “Enter N”) is displayed on the screen. For the given input N, you create two unsigned integer arrays (randomly generated values, each within a specific range) and display these arrays on the screen. Then, you display the elements pairwise and their product value.
 If input N provided is not a positive integer, your console shall mention an error message and shall ask for the input again
 
+
 ----------------------------------------------------------------------------
+
 ###Sample Run as shown below
 
 Enter N (the size of random arrays A and B) = 4<br>
@@ -19,4 +21,5 @@ Array B = [2, 40, 27, 12]<br>
 9 * 40 = 360<br>
 34 * 27 = 918<br>
 108 * 12 = 1296<br>
+
 -----------------------------------------------------------------------------
