@@ -8,7 +8,7 @@ inputs to construct N size input  array. Then your program should output the val
 
 Enter the size of Array<br>
 5<br>
-Elements of the Array
+Elements of the Array<br>
 -1<br>
 5<br>
 -10<br>
