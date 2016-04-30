@@ -4,7 +4,7 @@ inputs to construct N size input  array. Then your program should output the val
 
 ---------------------------------
 
-Sample Run as shown below
+###Sample Run as shown below
 
 Enter the size of Array<br>
 5<br>
@@ -18,4 +18,4 @@ Minimum= -10<br>
 Maximum= 40<br>
 Sum = 54<br>
 
-#---------------------------------
+---------------------------------
